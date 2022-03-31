@@ -25,14 +25,15 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
+    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
@@ -42,9 +43,9 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/symfony-3-1174988.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
