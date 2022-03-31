@@ -12,7 +12,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   <a href="https://github.com/gyroflaw"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20BlockChain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
-[![gryoflaw status](https://github-readme-stats.vercel.app/api?username=gyroflaw&hide=contribs,prs)]
+[![gryoflaw status](https://github-readme-stats.vercel.app/api?username=gyroflaw&hide=contribs,prs)](https://github.com/gyroflaw/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&layout=compact)](https://github.com/gyroflaw/github-readme-stats)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
