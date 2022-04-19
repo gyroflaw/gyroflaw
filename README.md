@@ -65,6 +65,8 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 ### Crypto Trading Platforms & Bots
 
+### Mordern Web projects using latest technologies like MERN Stack, WebAssembly ...
+
 ### AR & VR Web and Mobile application
 
 ### Video Conference Web & Mobile application
