@@ -15,7 +15,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 [![gryoflaw status](https://github-readme-stats.vercel.app/api?username=gyroflaw&hide=contribs,prs)](https://github.com/gyroflaw/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&layout=compact)](https://github.com/gyroflaw/github-readme-stats)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gyroflaw.gyroflaw" />
 <img align="right" src="https://img.shields.io/github/followers/gyroflaw?label=Follow&style=social" />
 <h1 align="center"></h1>
 
