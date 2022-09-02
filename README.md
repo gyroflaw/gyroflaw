@@ -13,8 +13,10 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </a>
 </p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=gyroflaw&theme=merko&layout=compact&hide_border=true&show_icons=true" />
-<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+<div>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=gyroflaw&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+<img align="right"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+</div>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gyroflaw.gyroflaw" />
 <img align="right" src="https://img.shields.io/github/followers/gyroflaw?label=Follow&style=social" />
