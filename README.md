@@ -17,7 +17,7 @@ Strive to follow best practices and use test-driven development in all my projec
 <img align="right" src="https://img.shields.io/github/followers/gyroflaw?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-## **𝐒𝐤𝐢𝐥𝐥𝐬**
+## **Programming Languages ❤️**
 
 <table>
   <tr>
@@ -26,9 +26,8 @@ Strive to follow best practices and use test-driven development in all my projec
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="./images/rust.svg" width="100" alt="Rust" /></td>
-    <td><img src="./images/go.svg" width="100" alt="Rust" /></td>
+    <td><img src="./images/go.svg" width="100" alt="Golang" /></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
   </tr>
 </table>
 
